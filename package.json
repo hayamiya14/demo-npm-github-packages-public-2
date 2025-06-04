@@ -4,6 +4,10 @@
   "private": false,
   "description": "",
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hayamiya14/demo-npm-github-packages-public-2.git"
+  },
   "license": "ISC",
   "author": "hayamiya",
   "type": "module",
